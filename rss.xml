@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hockey Addiction]]></title>
         <description><![CDATA[Hockey Addiction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hockey-addiction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 18:33:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 18:44:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hockey-addiction/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hockey Addiction]]></title>
+            <description><![CDATA[<article><h1>Hockey Addiction</h1></article>]]></description>
+            <link>https://thegrid.ai/hockey-addiction/</link>
+            <guid isPermaLink="false">3909b053-ebe0-4814-98ec-3e82d4cc096b</guid>
+            <pubDate>Sat, 21 May 2016 18:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This will be my first post. I bet a lot of people type just that. Or as a tech they would type This is a Test.</p>]]></description>
-            <link>undefinedthis-will-be-my-first-post-i-bet-a-lot-of-people-type-just/index.html</link>
+            <link>https://thegrid.ai/hockey-addiction/this-will-be-my-first-post-i-bet-a-lot-of-people-type-just/index.html</link>
             <guid isPermaLink="false">58823b92-0963-41aa-ab2f-1712f7ce96cf</guid>
             <pubDate>Sat, 21 May 2016 18:33:04 GMT</pubDate>
         </item>
