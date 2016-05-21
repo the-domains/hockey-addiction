@@ -1,6 +1,6 @@
 name: Hockey Addiction
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76971
 typography_spectrum: 0.94879
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.19166356604546309
   lightness: 0.6112183954101056
   saturation: 0.09789420384913683
-  rhythmicContrast: 0.03708089119754732
+  rhythmicContrast: 0
 purpose: []
