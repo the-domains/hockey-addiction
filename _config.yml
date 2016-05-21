@@ -1,14 +1,28 @@
-layout_spectrum: 0.3420128393918276
-typography_spectrum: 0.5621902504935861
+name: Hockey Addiction
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.94879
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
   brandStrength: 0.19166356604546309
   lightness: 0.6112183954101056
   saturation: 0.09789420384913683
   rhythmicContrast: 0.03708089119754732
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-name: Hockey Addiction
+purpose: []
